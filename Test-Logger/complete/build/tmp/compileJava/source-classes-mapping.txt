@@ -1,2 +1,0 @@
-hello/LoggerMain.java
- hello.LoggerMain
